@@ -39,8 +39,8 @@ print('Libraries imported.')
 # In[2]:
 
 
-CLIENT_ID = 'HMJSQ3GVV5LKNSTVIMD1DZYOS1E2WPOYUF43FCPWX4QNKLFW' # your Foursquare ID
-CLIENT_SECRET = 'PWDCF25ERDO4YXDNO4IINJGEKEOBCJO2P0WSGINATUEJWIGR' # your Foursquare Secret
+CLIENT_ID = 'XXX' # your Foursquare ID
+CLIENT_SECRET = 'XXX' # your Foursquare Secret
 VERSION = '20180605' # Foursquare API version
 
 print('Your credentails:')

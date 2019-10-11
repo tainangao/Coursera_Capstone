@@ -763,15 +763,6 @@ map_manhattan
 # In[61]:
 
 
-CLIENT_ID = 'HMJSQ3GVV5LKNSTVIMD1DZYOS1E2WPOYUF43FCPWX4QNKLFW' # your Foursquare ID
-CLIENT_SECRET = 'PWDCF25ERDO4YXDNO4IINJGEKEOBCJO2P0WSGINATUEJWIGR' # your Foursquare Secret
-VERSION = '20180605' # Foursquare API version
-
-print('Your credentails:')
-print('CLIENT_ID: ' + CLIENT_ID)
-print('CLIENT_SECRET:' + CLIENT_SECRET)
-
-
 # ## 2. Explore Neighborhoods in NYC
 # 
 # #### Let's create a function to get nearby venues for all the neighborhoods in Manhattan

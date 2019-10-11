@@ -15,7 +15,7 @@ Please check out my [blog post](https://medium.com/@jacqueline3749/residential-a
 1. import `rollingsales_manhattan.xls` as `df`
 2. drop commercial apartments and apartments without price
 3. eliminate outliers
-4. match the neighborhoods in `df` and GeoJSON file
+4. match the neighborhoods in `df` and **GeoJSON** file
    - create new column `df['FULL ADDRESS']`
    - get geo-coordinates for all apartments using **Google API**
    - name the new dataframe as `df1`
@@ -27,12 +27,12 @@ Please check out my [blog post](https://medium.com/@jacqueline3749/residential-a
 5. plot the choropleth using **Folium library**
 
 #### Part 2: Clustering
-1. download and explore the dataset
-   - load and explore the data
-   - slice the original dataframe and create a new dataframe of the Manhattan data, called `manhattan_data`
+1. download and explore `newyork_data.json`
+   - load and explore the data. Create a dataframe called `neighborhoods`
+   - slice `neighborhoods` and create a new dataframe of the Manhattan data, called `manhattan_data`
    - get the latitude and longitude values of Manhattan using **GeoPy library**
    - create a map of Manhattan with neighborhoods superimposed on top using **Folium library**
-2. explore Neighborhoods in Manhattan
+2. explore neighborhoods in Manhattan
    - get nearby venues for all the neighborhoods in Manhattan using **Foursquare API**. 
      Name the dataframe as `manhattan_venues`. It has 3328 venues and 339 unique categories
 3. analyze each neighborhood
@@ -41,7 +41,7 @@ Please check out my [blog post](https://medium.com/@jacqueline3749/residential-a
      Create a dataframe called `manhattan_grouped`
    - find out the most common venues in each neighborhood
      create a dataframe called `neighborhoods_venues_sorted`
-4. cluster neighborhoods using K-means
+4. cluster neighborhoods using **K-means**
    - find the best k
    - create a new dataframe that includes the cluster and the top 10 venues for each neighborhood
      name it `manhattan_merged`

@@ -10,9 +10,7 @@ The Toronto Jupyter Notebook is independent, while the rest of the documents in 
 
 Please check out 'Neighborhoods in Manhattan-no output.ipynb' to view the codes.
 
-Check out the link below to read a blog post of this project =)
-
-https://medium.com/@jacqueline3749/residential-apartment-sales-price-and-venues-analysis-of-manhattan-1a0ab261d5a9
+I also wrote a [blog post](https://medium.com/@jacqueline3749/residential-apartment-sales-price-and-venues-analysis-of-manhattan-1a0ab261d5a9) about this project, please check it out =)
 
 You could also check out 'Residential Apartment Sales Price and Venues Analysis of Manhattan.ipynb' to view the codes with outputs, but it will take a long time to load.
 

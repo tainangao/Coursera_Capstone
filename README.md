@@ -9,7 +9,6 @@ When people consider buying residential apartments, what they often take into co
 
 Please check out my [blog post](https://medium.com/@jacqueline3749/residential-apartment-sales-price-and-venues-analysis-of-manhattan-1a0ab261d5a9) about this project to view the maps and results =)
 
-file:///Users/jacquelinewong/Downloads/Neighborhoods-in-Manhattan.html
 
 ### Analysis Process
 #### Part 1: Choropleth

@@ -7,7 +7,9 @@ When people consider buying residential apartments, what they often take into co
 1. plot a Choropleth using Folium library, JSON files, Google Geocoding API, and Shapely library
 2. cluster all the neighborhoods in Manhattan into 5 clusters using Folium library, Foursquare API, GeoPy library, and K-means
 
-Please check out my [blog post](https://medium.com/@jacqueline3749/residential-apartment-sales-price-and-venues-analysis-of-manhattan-1a0ab261d5a9) about this project to view the maps and results =)
+**Please click here to check out the [Jupyter notebook](https://nbviewer.jupyter.org/github/tainangao/Coursera_Capstone/blob/master/Neighborhoods-in-Manhattan.ipynb)**, as the .ipynb file uploaded is too large to load on GitHub.
+
+I also wrote a [blog post](https://medium.com/@jacqueline3749/residential-apartment-sales-price-and-venues-analysis-of-manhattan-1a0ab261d5a9) about this project (photo taken by me =))
 
 
 ### Analysis Process

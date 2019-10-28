@@ -1,7 +1,7 @@
 # Coursera_Capstone
 IBM Data Science Professional Certificate capstone project
 
-**Please click here to check out the [Jupyter notebook](https://nbviewer.jupyter.org/github/tainangao/Coursera_Capstone/blob/master/Neighborhoods-in-Manhattan.ipynb)**, as the .ipynb file uploaded is too large to load on GitHub.
+**Please click here to check out the [Jupyter notebook](https://nbviewer.jupyter.org/github/tainangao/Coursera_Capstone/blob/master/Neighborhoods-in-Manhattan.ipynb)**, as the `.ipynb` file uploaded is too large to load on GitHub.
 
 I also wrote a [blog post](https://medium.com/@jacqueline3749/residential-apartment-sales-price-and-venues-analysis-of-manhattan-1a0ab261d5a9) about this project (photo taken by me =))
 

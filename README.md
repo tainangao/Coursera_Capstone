@@ -15,10 +15,15 @@ When people consider buying residential apartments, what they often take into co
 
 ## Data Sources 
 - Foursquare API
+   retrive venue information
 - Google Geocoding API
+   generate geo coordinates for each apartment. The output file is `Manhattan geo.csv`.
 - `Neighborhood Tabulation Areas.geojson`
+   define neighborhood boundaries in the choropleth
+- `newyork_data.json`
+   neighborhood names and coordinates
 - `rollingsales_manhattan.xls`
-- 2014 New York City Neighborhood Names
+   apartment sales information
 
 
 ## Analysis Process

@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Residential Apartment Sales Price and Venues Analysis of Manhattan
 IBM Data Science Professional Certificate capstone project
 
 **Please click here to check out the [Jupyter notebook](https://nbviewer.jupyter.org/github/tainangao/Coursera_Capstone/blob/master/Neighborhoods-in-Manhattan.ipynb)**, as the `.ipynb` file uploaded is too large to load on GitHub.
@@ -6,16 +6,22 @@ IBM Data Science Professional Certificate capstone project
 I also wrote a [blog post](https://medium.com/@jacqueline3749/residential-apartment-sales-price-and-venues-analysis-of-manhattan-1a0ab261d5a9) about this project (photo taken by me =))
 
 
-## Residential Apartment Sales Price and Venues Analysis of Manhattan
+## Problem Statement
 
-When people consider buying residential apartments, what they often take into consideration are the price and what the neighborhood has to offer. In this project, I will
+When people consider buying residential apartments, what they often take into consideration are the price and what the neighborhood has to offer. In this project, I will assemble 5 data sources and
 1. plot a Choropleth using Folium library, JSON files, Google Geocoding API, and Shapely library
 2. cluster all the neighborhoods in Manhattan into 5 clusters using Folium library, Foursquare API, GeoPy library, and K-means
 
 
+## Data Sources 
+- Foursquare API
+- Google Geocoding API
+- `Neighborhood Tabulation Areas.geojson`
+- `rollingsales_manhattan.xls`
+- 2014 New York City Neighborhood Names
 
 
-### Analysis Process
+## Analysis Process
 #### Part 1: Choropleth
 1. import `rollingsales_manhattan.xls` as `df`
 2. drop commercial apartments and apartments without price

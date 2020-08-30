@@ -38,7 +38,7 @@ When people consider buying residential apartments, what they often take into co
    - match each apartment with the neighborhood in GeoJSON file
       - import `Neighborhood Tabulation Areas.geojson` and only keep Manhattan data 
       - find out the GeoJSON neighborhood for each department using **Shapely library**
-         *Shapely detects if a coordinate is in a polygon *
+         *Shapely detects if a coordinate is in a polygon*
       - name the new dataframe as `df2`
 5. plot the choropleth using **Folium library**
 

@@ -55,8 +55,8 @@ When people consider buying residential apartments, what they often take into co
    - perform one hot encoding and create a dataframe called `manhattan_onehot`
    - group rows by neighborhood and take the mean frequency of occurrence of each category. 
      Create a dataframe called `manhattan_grouped`
-   - find out the most common venues in each neighborhood
-     create a dataframe called `neighborhoods_venues_sorted`
+   - find out the most common venues in each neighborhood.
+     Create a dataframe called `neighborhoods_venues_sorted`
 4. cluster neighborhoods using **K-means**
    - find the best k
    - create a new dataframe that includes the cluster and the top 10 venues for each neighborhood
